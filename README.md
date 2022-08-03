@@ -1,6 +1,13 @@
-# Getting Started with Create React App
+my-portfolio
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Built a Single Page Application that shows my profile, my projects, and contact links, email sends functionality.
+
+## [Live link](https://unsplash-app-pearl.vercel.app)
+
+
+### Snapshots of project 👇 
+
+<img target="_blank" src="Screenshot from 2022-08-03 23-02-44.png">
 
 ## Available Scripts
 
