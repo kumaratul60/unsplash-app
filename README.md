@@ -1,13 +1,22 @@
-my-portfolio
 
-Built a Single Page Application that shows my profile, my projects, and contact links, email sends functionality.
+
+## Built a Single Page Application that shows images fetched from APIs. 
+
+##functionality-
+1. Random images call from API
+2. Mobile responsive
+3. Search functionality
+4. Implement cool loader incase someting delay in API response
+5. Cool css transition on hover
+6. Sticky Header along with dyanamic logo
 
 ## [Live link](https://unsplash-app-pearl.vercel.app)
 
 
 ### Snapshots of project 👇 
-
-<img target="_blank" src="Screenshot from 2022-08-03 23-02-44.png">
+<img target="_blank" src="3.png">
+<img target="_blank" src="2.png">
+<img target="_blank" src="1.png">
 
 ## Available Scripts
 
