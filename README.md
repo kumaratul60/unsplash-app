@@ -6,7 +6,7 @@
 1. Random images call from API
 2. Mobile responsive
 3. Search functionality
-4. Implement cool loader incase someting delay in API response
+4. Implement cool loader incase delay in API response
 5. Cool css transition on hover
 6. Sticky Header along with dyanamic logo
 
